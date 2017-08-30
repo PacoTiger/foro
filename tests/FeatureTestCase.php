@@ -7,8 +7,4 @@ class FeatureTestCase extends TestCase
 {
 	use DatabaseTransactions;
 
-	function __construct(argument)
-	{
-		# code...
-	}
 }
